@@ -29,12 +29,3 @@ An innovative platform for health management using machine learning to predict p
 1. **Input Symptoms**: Users input their symptoms via the web interface.  
 2. **Prediction**: The system analyzes inputs using ML models to predict diseases.  
 3. **Recommendations**: Provides detailed medical advice, including medication and fitness plans.
-
-## Installation Guide
-
-Follow these steps to set up the application:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Personalized-Medical-Recommendation-System.git
-   cd Personalized-Medical-Recommendation-System
